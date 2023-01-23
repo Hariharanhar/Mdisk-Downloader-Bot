@@ -7,9 +7,9 @@
     "mdisk",
     "download" 
   ],
-  "success_url": "https://github.com/Hariharanhar/MDisk-Downloader-Bot",
-  "website": "https://github.com/Hariharanhar/MDisk-Downloader-Bot",
-  "repository": "https://github.com/Hariharanhar/MDisk-Downloader-Bot",
+  "success_url": "https://github.com/Amanraj654/Mdisk-Downloader-Bot",
+  "website": "https://github.com/Amanraj654/Mdisk-Downloader-Bot",
+  "repository": "https://github.com/Amanraj654/Mdisk-Downloader-Bot",
   "logo": "https://telegra.ph/file/8822a04c29a9fb5047493.jpg",
   "env": {
     "WEBHOOK": {
